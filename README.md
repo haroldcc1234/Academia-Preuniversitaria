@@ -157,7 +157,4 @@ Las pruebas automáticas usan H2 en modo MySQL, aislado de los datos reales. Ver
 | `docs/API.md` | Contrato de rutas y permisos |
 | `docs/PRUEBAS.md` | Validación y alcance comprobado |
 
-El ZIP contiene fuentes y archivos de instalación. Las dependencias y los pesos del modelo se descargan al instalar; no se incluyen bases con datos personales.
 
-
-Para el uso diario desde Docker Desktop, consulta [Abrir desde Docker](docs/ABRIR_EN_DOCKER.md).
