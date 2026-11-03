@@ -1,0 +1,208 @@
+name: academia-jauja
+
+services:
+
+  # ==========================================
+  # MYSQL
+  # ==========================================
+
+  mysql:
+    image: mysql:8.4
+    container_name: academia-mysql
+
+    environment:
+      MYSQL_DATABASE: academia_jauja
+      MYSQL_USER: academia
+      MYSQL_PASSWORD: ${DB_PASSWORD:-academia_local_2026}
+      MYSQL_ROOT_PASSWORD: ${MYSQL_ROOT_PASSWORD:-root_local_2026}
+
+    command:
+      - "--character-set-server=utf8mb4"
+      - "--collation-server=utf8mb4_unicode_ci"
+
+    volumes:
+      - mysql-data:/var/lib/mysql
+
+    healthcheck:
+      test:
+        [
+          "CMD-SHELL",
+          "mysqladmin ping -h localhost -u root -p\"$$MYSQL_ROOT_PASSWORD\" --silent"
+        ]
+      interval: 10s
+      timeout: 5s
+      retries: 30
+      start_period: 20s
+
+    restart: unless-stopped
+
+
+  # ==========================================
+  # OLLAMA
+  # ==========================================
+
+  ollama:
+    image: ollama/ollama:0.12.7
+    container_name: academia-ollama
+
+    volumes:
+      - ollama-data:/root/.ollama
+
+    healthcheck:
+      test: ["CMD", "ollama", "list"]
+      interval: 10s
+      timeout: 10s
+      retries: 30
+      start_period: 15s
+
+    restart: unless-stopped
+
+
+  # ==========================================
+  # DESCARGA AUTOMÁTICA DE MODELOS OLLAMA
+  # ==========================================
+
+  ollama-init:
+    image: ollama/ollama:0.12.7
+    container_name: academia-ollama-init
+
+    environment:
+      OLLAMA_HOST: http://ollama:11434
+      OLLAMA_MODEL: ${OLLAMA_MODEL:-qwen2.5:3b}
+      OLLAMA_BULLETIN_MODEL: ${OLLAMA_BULLETIN_MODEL:-qwen3-vl:2b}
+
+    depends_on:
+      ollama:
+        condition: service_healthy
+
+    entrypoint: ["/bin/sh", "-c"]
+
+    command:
+      - |
+        echo "Descargando modelo de texto..." &&
+        ollama pull "$${OLLAMA_MODEL}" &&
+        echo "Descargando modelo multimodal..." &&
+        ollama pull "$${OLLAMA_BULLETIN_MODEL}" &&
+        echo "Modelos Ollama preparados correctamente."
+
+    restart: "no"
+
+
+  # ==========================================
+  # SPRING BOOT
+  # ==========================================
+
+  backend:
+    build:
+      context: ./backend
+      dockerfile: Dockerfile
+
+    container_name: academia-backend
+
+    environment:
+
+      DB_URL: jdbc:mysql://mysql:3306/academia_jauja?useSSL=false&allowPublicKeyRetrieval=true&serverTimezone=UTC
+      DB_USER: academia
+      DB_PASSWORD: ${DB_PASSWORD:-academia_local_2026}
+
+      APP_DEMO: ${APP_DEMO:-true}
+      APP_DEMO_FULL: ${APP_DEMO_FULL:-false}
+
+      ADMIN_EMAIL: ${ADMIN_EMAIL:-director@academia.local}
+      ADMIN_PASSWORD: ${ADMIN_PASSWORD:-Director2026!}
+
+      CORS_ORIGINS: ${CORS_ORIGINS:-http://localhost:3000}
+
+      STORAGE_DRIVER: local
+      FILES_PATH: /app/private-files
+
+      OLLAMA_URL: http://ollama:11434
+      OLLAMA_MODEL: ${OLLAMA_MODEL:-qwen2.5:3b}
+      OLLAMA_BULLETIN_MODEL: ${OLLAMA_BULLETIN_MODEL:-qwen3-vl:2b}
+
+      BULLETIN_AI_PROVIDER: ${BULLETIN_AI_PROVIDER:-ollama}
+      GEMINI_API_KEY: ${GEMINI_API_KEY:-}
+      GEMINI_MODEL: ${GEMINI_MODEL:-gemini-3.8-flash}
+      GEMINI_MIN_INTERVAL_MS: ${GEMINI_MIN_INTERVAL_MS:-6500}
+      BULLETIN_WORKER: ${BULLETIN_WORKER:-true}
+
+      MAIL_ENABLED: ${MAIL_ENABLED:-false}
+
+      SMTP_HOST: ${SMTP_HOST:-mailpit}
+      SMTP_PORT: ${SMTP_PORT:-1025}
+      SMTP_USER: ${SMTP_USER:-}
+      SMTP_PASSWORD: ${SMTP_PASSWORD:-}
+      SMTP_AUTH: ${SMTP_AUTH:-false}
+      SMTP_TLS: ${SMTP_TLS:-false}
+
+      MAIL_FROM: ${MAIL_FROM:-no-responder@academia.local}
+
+      TZ: America/Lima
+
+    volumes:
+      - private-files:/app/private-files
+
+    depends_on:
+      mysql:
+        condition: service_healthy
+
+      # Model download runs independently: a cloud bulletin must not wait for local downloads.
+      ollama:
+        condition: service_started
+
+    # Te recomiendo dejarlo para poder probar también
+    # directamente el backend desde el navegador/Postman.
+    ports:
+      - "127.0.0.1:8080:8080"
+
+    restart: unless-stopped
+
+
+  # ==========================================
+  # REACT + NGINX
+  # ==========================================
+
+  frontend:
+    build:
+      context: ./frontend
+      dockerfile: Dockerfile
+
+    container_name: academia-frontend
+
+    ports:
+      - "127.0.0.1:3000:80"
+
+    depends_on:
+      - backend
+
+    restart: unless-stopped
+
+
+  # ==========================================
+  # MAILPIT - OPCIONAL
+  # ==========================================
+
+  mailpit:
+    image: axllent/mailpit:v1.27
+    container_name: academia-mailpit
+
+    profiles:
+      - correo
+
+    ports:
+      - "127.0.0.1:8025:8025"
+
+    restart: unless-stopped
+
+
+# ==========================================
+# VOLÚMENES PERSISTENTES
+# ==========================================
+
+volumes:
+
+  mysql-data:
+
+  private-files:
+
+  ollama-data:

@@ -1,0 +1,737 @@
+{
+  "UNI": {
+    "src": "/universities/uni.png",
+    "source": "https://portal.uni.edu.pe/",
+    "asset_source": "https://portal.uni.edu.pe/images/logos/logo-uni-blanco_med.png",
+    "dark": true,
+    "sha256": "c96790662a9cd9c2b9dcb21e6a484e2c2a36a7485b8993a8bbb4a981707e09e4"
+  },
+  "UNCP": {
+    "src": "/universities/uncp.png",
+    "source": "https://uncp.edu.pe/pregrado/facultades/",
+    "asset_source": "https://uncp.edu.pe/wp-content/uploads/2025/09/logo-uncp-2024-150x51.png",
+    "dark": true,
+    "sha256": "8fab6fc7ec8c8695fb5227b39a6e4d900306cf6750bdf8210ec4a9683324a18d"
+  },
+  "UNMSM": {
+    "src": "/universities/unmsm.svg",
+    "source": "https://www.unmsm.edu.pe/",
+    "asset_source": "https://unmsm-static-files-v2.s3.us-east-2.amazonaws.com/unmsm/assets/logo-unmsm.svg",
+    "dark": true,
+    "sha256": "445fd0977d82f145194ae14a0cacc3911f1c5f166c4ffc2603d8ad3049d46ad0"
+  },
+  "UNSA": {
+    "src": "/universities/unsa.png",
+    "source": "https://www.unsa.edu.pe/",
+    "asset_source": "https://www.unsa.edu.pe/wp-content/themes/unsatheme/img/logo-unsa-mov.png",
+    "dark": false,
+    "sha256": "fce5d4dc8deaf531b899028d7551dcfd3fcda4da49ab4d8db90d1623ff3580ea"
+  },
+  "UNSAAC": {
+    "src": "/universities/unsaac.png",
+    "source": "https://www.unsaac.edu.pe/",
+    "asset_source": "https://www.unsaac.edu.pe/wp-content/uploads/2024/03/332logo.png",
+    "dark": true,
+    "sha256": "7a555a2d4da91c22f1697b47d5befa05be0725462483414797eae2af73e489da"
+  },
+  "UC": {
+    "src": "/universities/uc.svg",
+    "source": "https://ucontinental.edu.pe/",
+    "asset_source": "https://ucontinental.edu.pe/site/wp-content/themes/salient-child/img/logo.svg",
+    "dark": false,
+    "sha256": "25a41cb486b0c287b2101f90d7f29e0420846ce37e00c02a7263534dce972512"
+  },
+  "PUCP": {
+    "src": "/universities/pucp.svg",
+    "source": "https://www.pucp.edu.pe/",
+    "asset_source": "https://s3.amazonaws.com/files.pucp.edu.pe/pucp-general/img-header/logo-pucp-new.svg",
+    "dark": true,
+    "sha256": "8582e776988587ac1e61d31000edd535b51d1d66adc9b51db906b48d32bf459d"
+  },
+  "UCP": {
+    "src": "/universities/ucp.png",
+    "source": "https://ucp.edu.pe/",
+    "asset_source": "https://ucp.edu.pe/wp-content/uploads/2025/03/LOGO-UCP.png",
+    "dark": false,
+    "sha256": "7a79109d1883792cd28394b70b48dcb07fa347447d90b1ff2a06023b1f40accf"
+  },
+  "UNTFSL": {
+    "src": "/universities/untfsl.png",
+    "source": "https://unatefsil.edu.pe/",
+    "asset_source": "https://unatefsil.edu.pe/wp-content/uploads/2025/11/cropped-logo_unatefsil-192x192.png",
+    "dark": false,
+    "sha256": "5c20591de12c2786c1d241604149474e1768c8686a93d2c7ba80ec0f3f5eead7"
+  },
+  "UNID": {
+    "src": "/universities/unid.png",
+    "source": "https://www.unidx.edu.pe/",
+    "asset_source": "https://www.unidx.edu.pe/wp-content/uploads/2026/03/unid-minilogo-150x150.png",
+    "dark": false,
+    "sha256": "346b9143f552aca3ade7c718c11179a93b63a7401abc9e2452ee2cf072f567d3"
+  },
+  "UJCM": {
+    "src": "/universities/ujcm.png",
+    "source": "https://ujcm.edu.pe/",
+    "asset_source": "https://ujcm.edu.pe/wp-content/uploads/2026/03/cropped-IMAGOLOGO-UJCM-1-copia-192x192.png",
+    "dark": false,
+    "sha256": "907aa302b4f49f66bf7f472223997d0c563030fc81f6f83df1663df12e5a252e"
+  },
+  "UNM": {
+    "src": "/universities/unm.png",
+    "source": "https://www.unm.edu.pe/",
+    "asset_source": "https://i0.wp.com/www.unm.edu.pe/wp-content/uploads/2021/05/cropped-LOGO-azul-600x130-1.png?fit=192%2C192&ssl=1",
+    "dark": false,
+    "sha256": "17b35157767eef5f1530b046bf09afbe4212644f8ef9ae7b3a5a00975e175235"
+  },
+  "UNDAR": {
+    "src": "/universities/undar.png",
+    "source": "https://www.undar.edu.pe/",
+    "asset_source": "https://www.undar.edu.pe/wp-content/uploads/elementor/thumbs/logo-2023-q1z673ykofg56grmzvb9jof0f5m4vf38kjuxbd6rg0.png",
+    "dark": false,
+    "sha256": "663bad8fac7c5c6733462696cb1009b8a997f752582d884c643ab067154ec857"
+  },
+  "ULADECH": {
+    "src": "/universities/uladech.png",
+    "source": "https://www.uladech.edu.pe/",
+    "asset_source": "https://www.uladech.edu.pe/wp-content/uploads/2022/11/uladechcatolica-logo-purple-70x50.png",
+    "dark": false,
+    "sha256": "d05566e6736a708069f021a667266c19cbe7127569d37e7071ad5a0395f8379b"
+  },
+  "UPP": {
+    "src": "/universities/upp.png",
+    "source": "https://politecnica.edu.pe/",
+    "asset_source": "https://politecnica.edu.pe/_next/image?url=%2Fimages%2Flogo_politecnica.png&w=384&q=75",
+    "dark": false,
+    "sha256": "96a66aee4240c66b844b6f708727f1a9de0a499a035f540e4b3240655d8c7ec9"
+  },
+  "UPRIT": {
+    "src": "/universities/uprit.png",
+    "source": "https://www.coara.org/signatories/universidad-privada-de-trujillo/",
+    "asset_source": "https://www.coara.org/wp-content/uploads/2025/10/LOGOS-UPRIT.png",
+    "dark": false,
+    "sha256": "165f9c8f748455e15f1f7488d31468f7e513d57bab21336a732c984a52b14149"
+  },
+  "UPECEN": {
+    "src": "/universities/upecen.png",
+    "source": "https://www.upecen.edu.pe/",
+    "asset_source": "https://www.upecen.edu.pe/wp-content/uploads/2019/03/Logo_only.png",
+    "dark": false,
+    "sha256": "7961ba62d7369fba66bc988539068a6ee74e430c1afe99583facbf5cdc675af2"
+  },
+  "UNCA": {
+    "src": "/universities/unca.webp",
+    "source": "https://unca.edu.pe/",
+    "asset_source": "https://unca.edu.pe/wp-content/uploads/2024/11/logo_unca-1-1024x197.webp",
+    "dark": false,
+    "sha256": "56e340402433fd98e6defff7bd684f3fc333038cfd3c9ab5215d773b6a63ea2f"
+  },
+  "UNICA": {
+    "src": "/universities/unica.png",
+    "source": "https://unica.edu.pe/",
+    "asset_source": "https://unica.edu.pe/estilosweb/images/logo.png",
+    "dark": false,
+    "sha256": "78de2fcf7e92651ccdbefce2a3dd04b25b9db48c864ed03676f6e2d0228f4722"
+  },
+  "UAI": {
+    "src": "/universities/uai.png",
+    "source": "https://portal.autonomadeica.edu.pe/",
+    "asset_source": "https://portal.autonomadeica.edu.pe/favicon.ico",
+    "dark": false,
+    "sha256": "cdf17b6dd7977af36b0c381e74da8218c43adafa01a1d58ba66c752c4b4e20c4"
+  },
+  "FTPCL": {
+    "src": "/universities/ftpcl.svg",
+    "source": "https://www.ftpcl.edu.pe/",
+    "asset_source": "https://www.ftpcl.edu.pe/wp-content/uploads/2026/03/Logo_Completo_Web_Office-01-3.svg",
+    "dark": false,
+    "sha256": "50fe2c71de3d5c3ea6c668988cc41f4c4bde8b75e4209e0f45354324467ab5a5"
+  },
+  "UNFV": {
+    "src": "/universities/unfv.png",
+    "source": "https://www.gob.pe/unfv",
+    "asset_source": "https://www.gob.pe/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTEzOTMxLCJwdXIiOiJibG9iX2lkIn19--496d72edf2788a00f994d6a311d5869eb73b5b37/logo_unfv.png",
+    "dark": false,
+    "sha256": "4c1e5f7664d7c0bed8ea5b2ed64c027ce36470d332c90a049e90acea4b225b45"
+  },
+  "UPLA": {
+    "src": "/universities/upla.png",
+    "source": "https://upla.edu.pe/",
+    "asset_source": "https://upla.edu.pe/web/wp-content/uploads/2024/10/logo-8.png",
+    "dark": false,
+    "sha256": "ccc196954e0ddc44120386861bf256cff75564076c6d73c169340e436ad89118"
+  },
+  "UNAMBA": {
+    "src": "/universities/unamba.png",
+    "source": "https://www.unamba.edu.pe/",
+    "asset_source": "https://www.unamba.edu.pe/wp-content/uploads/2025/07/LOGO-UNAMBA-01.png",
+    "dark": false,
+    "sha256": "4055546c7aac9d3acf054218b2f3644f4dba1fd7b1c3f95eb6cfb2473c1b54ec"
+  },
+  "UNJFSC": {
+    "src": "/universities/unjfsc.png",
+    "source": "https://unjfsc.edu.pe/",
+    "asset_source": "https://unjfsc.edu.pe/wp-content/uploads/2019/12/unjfsc_logo_v2_white_600x120.png",
+    "dark": true,
+    "sha256": "ab00efba681174b5bcca994b120fc167ae209b2f05e7acdf18f6b37da151b298"
+  },
+  "UNAC": {
+    "src": "/universities/unac.png",
+    "source": "https://unac.edu.pe/",
+    "asset_source": "https://unac.edu.pe/wp-content/uploads/2024/01/cropped-logo_web.png",
+    "dark": false,
+    "sha256": "6c525ae4ac1b3437defad3e49509735ff349b764bfff61b72e78093b1c74f514"
+  },
+  "UNE": {
+    "src": "/universities/une.png",
+    "source": "https://www.une.edu.pe/uneweb/",
+    "asset_source": "https://www.une.edu.pe/uneweb/wp-content/uploads/2019/04/cropped-logo_une5-192x192.png",
+    "dark": false,
+    "sha256": "9d32aef0d53186772d565708c4338811001073220f3f84a7d7c1678450bd2e7c"
+  },
+  "UWIENER": {
+    "src": "/universities/uwiener.svg",
+    "source": "https://www.uwiener.edu.pe/",
+    "asset_source": "https://www.uwiener.edu.pe/wp-content/themes/unw/upload/unw-logo.svg",
+    "dark": false,
+    "sha256": "aaafd1e0b5f481500712a88b338f29e5be69630ea2e3d4b395762231610f83aa"
+  },
+  "UNTUMBES": {
+    "src": "/universities/untumbes.png",
+    "source": "https://untumbes.edu.pe/",
+    "asset_source": "https://untumbes.edu.pe/logo_.png",
+    "dark": false,
+    "sha256": "599d633a41a926cab4b6cf766b316800a3a0037d23e6cbb0aa8f8b9e16012c38"
+  },
+  "UPSJB": {
+    "src": "/universities/upsjb.webp",
+    "source": "https://www.upsjb.edu.pe/",
+    "asset_source": "https://www.upsjb.edu.pe/wp-content/uploads/2021/04/logo-san-juan-300x80.webp",
+    "dark": false,
+    "sha256": "e45c65714806416223d9041ff5a2120194993cc93337c78e967afdbb3e621e0f"
+  },
+  "UNAMAD": {
+    "src": "/universities/unamad.png",
+    "source": "https://portal.unamad.edu.pe/",
+    "asset_source": "https://portal.unamad.edu.pe/img/header/logounamad.png",
+    "dark": false,
+    "sha256": "a27196ca2d40d32096ab5f4f8c93586b50596e3bb4fe9c52e837845ef6fcd272"
+  },
+  "UNAS": {
+    "src": "/universities/unas.png",
+    "source": "https://www.gob.pe/unas",
+    "asset_source": "https://www.gob.pe/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTM0MjY2LCJwdXIiOiJibG9iX2lkIn19--9b506fa6bffb00e7b092322775e6ac7333fd9ba5/logo-unas.png",
+    "dark": false,
+    "sha256": "20e0c0edeb6523a75a865edb9cd436830dddacc82279aea7df20d4d04c3b9dfa"
+  },
+  "UNDAC": {
+    "src": "/universities/undac.ico",
+    "source": "https://undac.edu.pe/",
+    "asset_source": "https://undac.edu.pe/favicon.ico",
+    "dark": false,
+    "sha256": "2203f5415aa0fb336194912ea913bafbe12be89fbeb6251c87dc354f271d5683"
+  },
+  "UNH": {
+    "src": "/universities/unh.png",
+    "source": "https://www.unh.edu.pe/",
+    "asset_source": "https://www.unh.edu.pe/wp-content/uploads/2026/08/cropped-Logo-UNH-color-1-192x192.png",
+    "dark": false,
+    "sha256": "2064db3e2b48c1e99e3a929ee65a488a589c5a799cfc357f2c6cea34790fd7d8"
+  },
+  "UNIQ": {
+    "src": "/universities/uniq.png",
+    "source": "https://www.gob.pe/uniq",
+    "asset_source": "https://www.gob.pe/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6NTg1NjExLCJwdXIiOiJibG9iX2lkIn19--ec09aa71a7f9ff61147cb3d2f61a9674fea3bc80/logo%20uniq.png",
+    "dark": false,
+    "sha256": "97d3269fcd93cbe28be5a6b4450980736571a4732bf7f19dd1c74b0478124ba0"
+  },
+  "UFR": {
+    "src": "/universities/ufr.png",
+    "source": "https://www.uroosevelt.edu.pe/portal/",
+    "asset_source": "https://www.uroosevelt.edu.pe/portal/wp-content/uploads/2025/07/Logo-294x75-1.png",
+    "dark": false,
+    "sha256": "3dc6b9684d1c96bfc55839a8b0e28b03eb85ed69f3107d333fb0445785697582"
+  },
+  "UNP": {
+    "src": "/universities/unp.png",
+    "source": "https://www.gob.pe/unp",
+    "asset_source": "https://www.gob.pe/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTc3Mjk5LCJwdXIiOiJibG9iX2lkIn19--da2631e6cbdfe8fbf61a1a65192883f9667d74ed/ic_logo.png",
+    "dark": false,
+    "sha256": "0a4bc046ed8ad2d338dca218edcf0cc569540dbfdca3f69600be1c1a9df2b543"
+  },
+  "UNSM": {
+    "src": "/universities/unsm.png",
+    "source": "https://unsm.edu.pe/",
+    "asset_source": "https://unsm.edu.pe/wp-content/uploads/2019/01/Logo-UNSM.png",
+    "dark": false,
+    "sha256": "5ed2010f3f050b5be6785cd3a4104e28fcf16515737eeb8148ff3053d4a38bce"
+  },
+  "UNF": {
+    "src": "/universities/unf.png",
+    "source": "https://www.unf.edu.pe/",
+    "asset_source": "https://www.unf.edu.pe/wp-content/uploads/2024/11/logoUnf.png",
+    "dark": true,
+    "sha256": "24e8cc7302e5f44f47fa36aca7d46efcea5bb4b1e8fcd5934fa69b097af6e0ff"
+  },
+  "UNS": {
+    "src": "/universities/uns.png",
+    "source": "https://www.uns.edu.pe/",
+    "asset_source": "https://www.uns.edu.pe/favicon.png",
+    "dark": false,
+    "sha256": "15838003bd2f59d25e697bd5a25d6fdc8430c58760059f2503600f1b7ad1d5e8"
+  },
+  "UCT": {
+    "src": "/universities/uct.png",
+    "source": "https://uct.edu.pe/",
+    "asset_source": "https://uct.edu.pe/wp-content/uploads/2022/10/vvv12222.png",
+    "dark": false,
+    "sha256": "c26a9e94ddd1f0aee8731a0bfa4ca27c5986a81800fefd6b03fc53de41421c00"
+  },
+  "UNAT": {
+    "src": "/universities/unat.png",
+    "source": "https://www.gob.pe/unat",
+    "asset_source": "https://www.gob.pe/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTE3NjQ2LCJwdXIiOiJibG9iX2lkIn19--46ed03ad7923f34f97ce1977949dcd5d7b08a6ef/unat.png",
+    "dark": false,
+    "sha256": "8c6acfba7ff2b2ef3ba3db9795417573cab90d7a3c214c87d79cfd80b674b946"
+  },
+  "UNASAM": {
+    "src": "/universities/unasam.png",
+    "source": "https://unasam.edu.pe/",
+    "asset_source": "https://unasam.edu.pe/web/logounasam/logo-17-10-2024-23-04-54.png",
+    "dark": false,
+    "sha256": "559c8fd37f7cf2c0849541a264a63c0c60575673ad33da295322292286f09f86"
+  },
+  "UNACH": {
+    "src": "/universities/unach.png",
+    "source": "https://portaluni.unach.edu.pe/",
+    "asset_source": "https://portaluni.unach.edu.pe/images/logo.png",
+    "dark": false,
+    "sha256": "d0b6ea390f56831dc1fdf7ac444fe23c489a841ff7473abb30b75f05e4a09d6c"
+  },
+  "ULCB": {
+    "src": "/universities/ulcb.png",
+    "source": "https://ulcb.edu.pe/",
+    "asset_source": "https://ulcb.edu.pe/wp-content/uploads/2026/04/cropped-logo02_ulcb-192x192.png",
+    "dark": false,
+    "sha256": "44fc98d317a498b33c59ef52f73a91fb1a5b2a46531cd086b0450cec178e52b4"
+  },
+  "UNU": {
+    "src": "/universities/unu.png",
+    "source": "https://www.unu.edu.pe/portal/",
+    "asset_source": "https://www.unu.edu.pe/portal/images/logo-para-web.png",
+    "dark": false,
+    "sha256": "9674f412b02e5d3711d5c0b5f9148b9d5e21888f1a09188a3c9a76c8c95aacfa"
+  },
+  "UMA": {
+    "src": "/universities/uma.png",
+    "source": "https://uma.edu.pe/",
+    "asset_source": "https://uma.edu.pe/wp-content/uploads/2025/07/logo-web2025_130-270x98.png",
+    "dark": false,
+    "sha256": "3c85ad1838b9bb6f2338b12ee754113106f855e39da51e63f2bb7c23c1f9b1cb"
+  },
+  "UNAAT": {
+    "src": "/universities/unaat.png",
+    "source": "https://www.gob.pe/unaat",
+    "asset_source": "https://www.gob.pe/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6NTkzMjI3LCJwdXIiOiJibG9iX2lkIn19--950fc730207d499d0db5ba80d0d0fb4e8d4b76c5/LOGO%20UNAAT.png",
+    "dark": false,
+    "sha256": "0ecbcf7bd3c7906f94ab60191851a9c28681816dba593872446d6bd00cf4dac9"
+  },
+  "UNIA": {
+    "src": "/universities/unia.png",
+    "source": "https://unia.edu.pe/",
+    "asset_source": "https://unia.edu.pe/unia/wp-content/uploads/2026/05/logo_unia-1.png",
+    "dark": false,
+    "sha256": "75aea732aa55982668a04464ea27189c9771da4f5165454b8d030c0bae4807e6"
+  },
+  "UNT": {
+    "src": "/universities/unt.png",
+    "source": "https://unitru.edu.pe/",
+    "asset_source": "https://unitru.edu.pe/Recursos/img-unt/logo-unt1.png",
+    "dark": false,
+    "sha256": "7c279dcb9d39249530adb500098ebfda77a34281045aa51fd57624ec14de7545"
+  },
+  "UCSS": {
+    "src": "/universities/ucss.png",
+    "source": "https://www.ucss.edu.pe/",
+    "asset_source": "https://www.ucss.edu.pe/templates/gk_gamenews/images/logo.png",
+    "dark": false,
+    "sha256": "128228845bd701828ef670e56ac125d3804dfdb0c56d090d1c6b8f798d466912"
+  },
+  "UNDC": {
+    "src": "/universities/undc.png",
+    "source": "https://web.undc.edu.pe/",
+    "asset_source": "https://web.undc.edu.pe/wp-content/uploads/2024/05/logo.jpg",
+    "dark": true,
+    "sha256": "a7d88605a747e8234983bd1f0b2ad2266846260922e340b487867ca8989fb8c0"
+  },
+  "UNAJ": {
+    "src": "/universities/unaj.png",
+    "source": "https://portal.unaj.edu.pe/",
+    "asset_source": "https://portal.unaj.edu.pe/themes/custom/modins_sub/logo.png",
+    "dark": false,
+    "sha256": "008f5e5c33a9ae572d30298af8cf190135daa71001c7547b2365c0d0edadffe6"
+  },
+  "UNIFSLB": {
+    "src": "/universities/unifslb.png",
+    "source": "https://www.gob.pe/unibagua",
+    "asset_source": "https://www.gob.pe/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTc5MTQ0LCJwdXIiOiJibG9iX2lkIn19--cd998ad1b26a471b4a53664edc2503e7fbe2b5a1/logo-web.png",
+    "dark": false,
+    "sha256": "7e1f922bebf87858a78dce8ac4593b1eccdaaf7f29fba8324c7f25d1a3430d85"
+  },
+  "UNC": {
+    "src": "/universities/unc.png",
+    "source": "https://www.unc.edu.pe/",
+    "asset_source": "https://www.unc.edu.pe/wp-content/uploads/2021/09/ESCUDO_UNC.png",
+    "dark": false,
+    "sha256": "5bd0f1c755ec7a8b5dd839f0f659f16936abd4ba19bdfd313cc93aae187ad9b9"
+  },
+  "UNAAA": {
+    "src": "/universities/unaaa.png",
+    "source": "https://unaaa.edu.pe/",
+    "asset_source": "https://unaaa.edu.pe/wp-content/uploads/2026/05/cropped-Escudo-UNAAA-Transparente-192x192.png",
+    "dark": false,
+    "sha256": "644815808af1735258a394933c78dfdef85fa5f2cf7ea6d1ff5fb0166e58a1b2"
+  },
+  "UNJBG": {
+    "src": "/universities/unjbg.png",
+    "source": "https://unjbg.edu.pe/",
+    "asset_source": "https://unjbg.edu.pe/images/themes/unjbg/logo-sm.png",
+    "dark": false,
+    "sha256": "a091e6e136acdc04d24ff5bb588c347bfb60cbeec6d43ebce0552e201933ddb6"
+  },
+  "UPEU": {
+    "src": "/universities/upeu.svg",
+    "source": "https://upeu.edu.pe/",
+    "asset_source": "https://upeu.edu.pe/wp-content/uploads/2026/05/logo-upeu-dark.svg",
+    "dark": false,
+    "sha256": "98cf2bcb0bd9b65b35eff3f902ff9855a4282fff67c84fa5bc29dd3c4b62e009"
+  },
+  "UNAB": {
+    "src": "/universities/unab.png",
+    "source": "https://www.gob.pe/unab",
+    "asset_source": "https://www.gob.pe/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTcyMzY2LCJwdXIiOiJibG9iX2lkIn19--cac014e4c6ac9caaf637c3d08859aa1d08cc1a86/18987391_1835691486758991_286872311_o-1.png",
+    "dark": false,
+    "sha256": "62eae9c12c5ea71646eec49392d10e88cad52ed6119f47f51569fd20c5af1a3d"
+  },
+  "UCSUR": {
+    "src": "/universities/ucsur.svg",
+    "source": "https://www.cientifica.edu.pe/",
+    "asset_source": "https://www.cientifica.edu.pe/wp-content/uploads/2023/08/logo-cientifica.svg",
+    "dark": true,
+    "sha256": "7c6cf504350adc53e51817570d37c1abfcc8bc829362a1001a695a15adee293d"
+  },
+  "ESAN": {
+    "src": "/universities/esan.png",
+    "source": "https://www.esan.edu.pe/",
+    "asset_source": "https://www.esan.edu.pe/images/logo-movil-black.png",
+    "dark": true,
+    "sha256": "1b549f401231fe717afb8adc35c53ccdd44953d3f6c8b77cc123ac5b91daf8c9"
+  },
+  "UPAO": {
+    "src": "/universities/upao.png",
+    "source": "https://upao.edu.pe/",
+    "asset_source": "https://upao.edu.pe/img/banner/logo-upao.png",
+    "dark": true,
+    "sha256": "518e482bede999e76bd9fae8ed557014b30dc50e05d8d78ad5983b46c380c528"
+  },
+  "UNISCJSA": {
+    "src": "/universities/uniscjsa.png",
+    "source": "https://uniscjsa.edu.pe/",
+    "asset_source": "https://uniscjsa.edu.pe/wp-content/uploads/2023/02/cropped-LOGO-1-1-192x192.png",
+    "dark": false,
+    "sha256": "fc31d056707c2e6e5fd807450d4ff0bd5c03bc571325aa7b73173a4a0ad221e4"
+  },
+  "USAT": {
+    "src": "/universities/usat.webp",
+    "source": "https://www.usat.edu.pe/",
+    "asset_source": "https://www.usat.edu.pe/wp-content/uploads/2026/01/logousat_favicon-150x150.webp",
+    "dark": false,
+    "sha256": "a0e355c66432e82215f78769d4313b456acc40f7140f15c739d83e2313f7fff2"
+  },
+  "ULASALLE": {
+    "src": "/universities/ulasalle.png",
+    "source": "https://www.ulasalle.edu.pe/",
+    "asset_source": "https://www.ulasalle.edu.pe/wp-content/uploads/2024/03/logo_ulasalle50.png",
+    "dark": true,
+    "sha256": "059db4f7db4d03bfb970c83124de7644f5472b7af49e52b6ecf9ac0c34dbe7cb"
+  },
+  "UNJ": {
+    "src": "/universities/unj.png",
+    "source": "https://unj.edu.pe/",
+    "asset_source": "https://unj.edu.pe/wp-content/uploads/2021/08/cropped-unj_logo-230x40.png",
+    "dark": false,
+    "sha256": "d5e33333d172c1f6e8f21bc7bdf357f7c3c51458e6ac8c4a951f3c0dce57dece"
+  },
+  "UNAM": {
+    "src": "/universities/unam.svg",
+    "source": "https://unam.edu.pe/",
+    "asset_source": "https://unam.edu.pe/wp-content/uploads/2026/04/Logo-UNAM-2026-1.svg",
+    "dark": false,
+    "sha256": "d25130a3777025dd48528144006be70f7141e15efbed5e8581d9a3fd9c8cf8d5"
+  },
+  "UCH": {
+    "src": "/universities/uch.webp",
+    "source": "https://uch.edu.pe/",
+    "asset_source": "https://www.uch.edu.pe/assets/img/logo.webp",
+    "dark": true,
+    "sha256": "a10ed243f8be1f69621fe2ef2bd2b6d897251aa94ee64af6ddff8e64a3de37c5"
+  },
+  "UPN": {
+    "src": "/universities/upn.svg",
+    "source": "https://www.upn.edu.pe/",
+    "asset_source": "https://www.upn.edu.pe/sites/default/files/logo-upn-nuevo.svg",
+    "dark": false,
+    "sha256": "3134db48e9e023be20fdd958f8f4bf7c7e8ffc660f7ddd8e0e6616391c20555f"
+  },
+  "UCSP": {
+    "src": "/universities/ucsp.png",
+    "source": "https://ucsp.edu.pe/",
+    "asset_source": "https://ucsp.edu.pe/wp-content/themes/ucsp/assets/favicon/apple-touch-icon.png",
+    "dark": false,
+    "sha256": "28349c54ec8771d8ab431f601a01783eedcafc5a70125f92cf838e72adc4d4ad"
+  },
+  "UMCH": {
+    "src": "/universities/umch.png",
+    "source": "https://umch.edu.pe/",
+    "asset_source": "https://umch.edu.pe/public/assets/logo-umch.png",
+    "dark": true,
+    "sha256": "d0bffc3db32e0e255ffbb0ef07a8f7f011045576f2f32d72a0b56caca3fc71a7"
+  },
+  "UPC": {
+    "src": "/universities/upc.png",
+    "source": "https://upc.edu.pe/",
+    "asset_source": "https://upc-cdn.b-cdn.net/web-institucional/static/img/logo1.png",
+    "dark": false,
+    "sha256": "d54b4bb456a79d015b998ecdec50ff5080d2fee551c24009c2fb5952a26cb3ca"
+  },
+  "UNAJMA": {
+    "src": "/universities/unajma.png",
+    "source": "https://unajma.edu.pe/",
+    "asset_source": "https://unajma.edu.pe/wp-content/uploads/2025/02/cropped-UNAJMA-HORIZONTAL-170x65.png",
+    "dark": false,
+    "sha256": "9e4509d07f2cb0e35ad403a1ce1a3e375e33febb7f03ffcf57428ff7e4ab65bf"
+  },
+  "UNTRM": {
+    "src": "/universities/untrm.png",
+    "source": "https://untrm.edu.pe/",
+    "asset_source": "https://untrm.edu.pe/wp-content/uploads/2025/10/untrmblanco.png",
+    "dark": true,
+    "sha256": "72148c4d67fee926f838d12f81016585a7a05e9590d2c5c4a55f1838d4f842d1"
+  },
+  "UARM": {
+    "src": "/universities/uarm.jpg",
+    "source": "https://www.uarm.edu.pe/",
+    "asset_source": "https://www.uarm.edu.pe/wp-content/uploads/2021/08/logo-uarm.jpg",
+    "dark": false,
+    "sha256": "2443cac3c11ddec76ef830c1a8cabda71b9aa179b2a78ce355296e305ef3d5d0"
+  },
+  "UDEP": {
+    "src": "/universities/udep.png",
+    "source": "https://www.udep.edu.pe/",
+    "asset_source": "https://www.udep.edu.pe/wp-content/uploads/2020/03/logo.png",
+    "dark": false,
+    "sha256": "0b2e4b1129fd070b3992c49727f57768ec11a4800b008fcce15b336177b06b77"
+  },
+  "URP": {
+    "src": "/universities/urp.png",
+    "source": "https://www.urp.edu.pe/",
+    "asset_source": "https://file.urp.edu.pe/thumb-urp-wm-819-hm-258-we-819-he-258-x-0-y-0-s-0-q-60-zc-3-f-0-rgb-000000-src-53763-n-file-urp-20240703-094039-2-570668562e7f2e88.png",
+    "dark": true,
+    "sha256": "f9d54c74daa9f3bed3d5afa7972e36842cf1f34f0d23ff7b49c339c9d8e3a95a"
+  },
+  "UNIFE": {
+    "src": "/universities/unife.png",
+    "source": "https://unife.edu.pe/",
+    "asset_source": "https://unife.edu.pe/wp-content/uploads/logo_unife_verde-1.png",
+    "dark": false,
+    "sha256": "5afe77e6adaa52661d2ea2576b25783060bde2710155739dd3666dd123983abf"
+  },
+  "UCAL": {
+    "src": "/universities/ucal.png",
+    "source": "https://ucal.edu.pe/",
+    "asset_source": "https://www.ucal.edu.pe/sites/default/files/ucal-logo-color-sq180-icon-v1.png",
+    "dark": false,
+    "sha256": "6b8497deb3c040b9e1af800d1df6001bdf137d5af715c657eb2512b1945f30ca"
+  },
+  "UDEA": {
+    "src": "/universities/udea.png",
+    "source": "https://udea.edu.pe/",
+    "asset_source": "https://udea.edu.pe/wp-content/uploads/2026/06/logopreH.png",
+    "dark": false,
+    "sha256": "95cb41e6c873b6abb5e70dc1309578163a12801c02bfd22368ed63d69f251f8c"
+  },
+  "UPCH": {
+    "src": "/universities/upch.svg",
+    "source": "https://cayetano.edu.pe/",
+    "asset_source": "https://cayetano.edu.pe/wp-content/uploads/2022/06/upch-logotipo.svg",
+    "dark": false,
+    "sha256": "52e6b85aa5b68353af8d007eaf494cd6763d5149139b4f6e4f6c43fdb4f64065"
+  },
+  "ULIMA": {
+    "src": "/universities/ulima.svg",
+    "source": "https://www.ulima.edu.pe/",
+    "asset_source": "https://www.ulima.edu.pe/themes/custom/ulima/logo.svg",
+    "dark": false,
+    "sha256": "ccb1b3880c321b92f5305855816670c6393677974441652e84c8eb97d4488ad6"
+  },
+  "UTEC": {
+    "src": "/universities/utec.svg",
+    "source": "https://utec.edu.pe/",
+    "asset_source": "https://utec.edu.pe/sites/default/files/2023-09/logo_0.svg",
+    "dark": false,
+    "sha256": "cde5effcc2bd233a3b3caf47758c1579d314d76d125be7681f80d25b8d7159f0"
+  },
+  "UNHEVAL": {
+    "src": "/universities/unheval.png",
+    "source": "https://unheval.edu.pe/portal/",
+    "asset_source": "https://unheval.edu.pe/portal/public/imagenes/unh/logounh-324x84-1-300x78.png",
+    "dark": false,
+    "sha256": "45204a381289c07c978c26e164348f275a8c98c9a0a80d8948a9abf5e4e2c5f0"
+  },
+  "USIL": {
+    "src": "/universities/usil.webp",
+    "source": "https://usil.edu.pe/",
+    "asset_source": "https://d31935m4eumln1.cloudfront.net/wp-content/uploads/2025/10/30190345/usil-30.webp",
+    "dark": true,
+    "sha256": "91e2894549068e9badf57805b751c59e0021f0592b9bd076cd7e80e6f221d277"
+  },
+  "UNTELS": {
+    "src": "/universities/untels.png",
+    "source": "https://www.untels.edu.pe/",
+    "asset_source": "https://www.untels.edu.pe/images/logo.png",
+    "dark": false,
+    "sha256": "5d82e824d269222f09acd4c09d9af047d1997cf587b6523578e6bb8acf012fda"
+  },
+  "UAC": {
+    "src": "/universities/uac.svg",
+    "source": "https://uandina.edu.pe/",
+    "asset_source": "https://apiwww.uandina.edu.pe/storage/web_config/1/357C65zyfRa4jzeteBXzeta0f2W5WKpKgWzsBakk.svg",
+    "dark": false,
+    "sha256": "3c6d2103b54caf74e35ea8c5d0f87ae5a03af36e44e616e1a6311fcd214a1557"
+  },
+  "UTP": {
+    "src": "/universities/utp.png",
+    "source": "https://www.utp.edu.pe/",
+    "asset_source": "https://www.utp.edu.pe/sites/default/files/favicon_utp_1.png",
+    "dark": false,
+    "sha256": "2b2d4958d29f24cae3b6d517cd61a5b2bcd0f5787e4e392b42bc55d16f940ada"
+  },
+  "UPA": {
+    "src": "/universities/upa.png",
+    "source": "https://ulasamericas.edu.pe/",
+    "asset_source": "https://ulasamericas.edu.pe/wp-content/uploads/2024/05/logo-upa.png",
+    "dark": false,
+    "sha256": "e1ccd7201fb0d642945b80a388f96c01b8d7528dbfce3bfd2c91629886b79762"
+  },
+  "UNPRG": {
+    "src": "/universities/unprg.png",
+    "source": "https://www.gob.pe/unprg",
+    "asset_source": "https://www.gob.pe/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzMyOTY1LCJwdXIiOiJibG9iX2lkIn19--aaac0cf2d31147500cb6fa58c86058291973ae2b/escudo_act_ofic.png",
+    "dark": false,
+    "sha256": "ccfd3f168ccbdb1961849dcbcb54b532e53555a5ff10458dd0889e4a75374d16"
+  },
+  "UTEA": {
+    "src": "/universities/utea.png",
+    "source": "https://utea.edu.pe/",
+    "asset_source": "https://utea.edu.pe/wp-content/uploads/2022/01/logo-utea-2022-2.png",
+    "dark": true,
+    "sha256": "2c802ff878f66ac6b10aae4a0f9d026ab6c581c1fd3285d2e3a976e1882019e2"
+  },
+  "USS": {
+    "src": "/universities/uss.png",
+    "source": "https://www.uss.edu.pe/uss/",
+    "asset_source": "https://www.uss.edu.pe/uss/img/favicon.png",
+    "dark": false,
+    "sha256": "ac99987a94cfa8dac7fd3bf7043ac3e2403b1d79b0c94aafb8b39c87d4d0e2c0"
+  },
+  "UDH": {
+    "src": "/universities/udh.png",
+    "source": "https://admision.udh.edu.pe/",
+    "asset_source": "https://admision.udh.edu.pe/img/logo_admision.png",
+    "dark": false,
+    "sha256": "5746880ff3b459e903e6f6ca372a1956a4851e14922f8dc04e8043f3f19043e5"
+  },
+  "UNAP": {
+    "src": "/universities/unap.png",
+    "source": "https://www.gob.pe/unapiquitos",
+    "asset_source": "https://www.gob.pe/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzU4ODcsInB1ciI6ImJsb2JfaWQifX0=--f813a03478b53f6d50a2510cc5689fc3f59ac27a/Logotipo-de-la-UNAP.png",
+    "dark": false,
+    "sha256": "1d05e728e7cfc822ddada73b6d49c793edcf1ebed2142b0343c511ec716ffdbe"
+  },
+  "UNSCH": {
+    "src": "/universities/unsch.png",
+    "source": "https://www.gob.pe/unsch",
+    "asset_source": "https://www.gob.pe/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTI2MjA1LCJwdXIiOiJibG9iX2lkIn19--515c77c2d12c5cf39529e371a9f75cc005fd8fb0/logo%20unsch%20sigla%20horizontal%20png.png",
+    "dark": false,
+    "sha256": "3cc2fff053aa62c6c73e9a7186ab1e673c079a36589e4a4aab63887341b3b9b3"
+  },
+  "UCSM": {
+    "src": "/universities/ucsm.png",
+    "source": "https://apps.ucsm.edu.pe/index.html",
+    "asset_source": "https://apps.ucsm.edu.pe/ucsm_negativo_horizontal.png",
+    "dark": true,
+    "sha256": "842e9dac549e89c9531176e67a0693579a8339280d3f2eacd89647bc5ff6d2f9"
+  },
+  "UNAPUNO": {
+    "src": "/universities/unapuno.png",
+    "source": "https://www.gob.pe/unap",
+    "asset_source": "https://www.gob.pe/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTQxMzQsInB1ciI6ImJsb2JfaWQifX0=--c999fd382c9443319835d7efa7aaf61b22e44e8f/UNAPUNO%20(1).png",
+    "dark": false,
+    "sha256": "b1b5b3a53d676ff270bf14d385d6c5101a2dd76e8764a177cd9bc3261b815844"
+  },
+  "UPT": {
+    "src": "/universities/upt.png",
+    "source": "https://www.upt.edu.pe/upt/web/index.php",
+    "asset_source": "https://www.upt.edu.pe/upt/web/assets/img/blanco_color.png",
+    "dark": true,
+    "sha256": "eda493b46de020d4810a2a822e56220bf924e1c852ef59976b90f16d421c362b"
+  },
+  "USMP": {
+    "src": "/universities/usmp.svg",
+    "source": "https://admision.usmp.edu.pe/",
+    "asset_source": "https://admision.usmp.edu.pe/wp-content/uploads/2022/05/logousmp_mini_60.svg",
+    "dark": false,
+    "sha256": "0c5eb71ffe72eafa749347a3ef546eaf44f1d15261983ba6d0c53805510cfb41"
+  },
+  "UNAH": {
+    "src": "/universities/unah.png",
+    "source": "https://portal.unah.edu.pe/",
+    "asset_source": "https://portal.unah.edu.pe/wp-content/uploads/2023/06/cropped-logounah.png",
+    "dark": false,
+    "sha256": "1a51292e0194baef10a46e7a8d40bfd8b843eb4158ddd17a1b02b75c7cb8c244"
+  },
+  "UNALM": {
+    "src": "/universities/unalm.png",
+    "source": "https://www.gob.pe/unalm",
+    "asset_source": "https://www.gob.pe/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6NDYyODc2LCJwdXIiOiJibG9iX2lkIn19--98088457a17fb955b55782a9ac64baab5067f7fe/logo_UNALM.png",
+    "dark": false,
+    "sha256": "e655d9a8790b106e7243d03221b44455fe6e02aa5e18504e8c4b47d2bfb49c1c"
+  },
+  "UP": {
+    "src": "/universities/up.png",
+    "source": "https://campusvirtual.up.edu.pe/administrativos/webmarketing.aspx",
+    "asset_source": "https://campusvirtual.up.edu.pe/img/logo-universidad-del-pacifico-blanco.png",
+    "dark": true,
+    "sha256": "b9734ded99ee09a8cbf3f46664937d7035ace2f9ef943c2469c894c1581fbadc"
+  },
+  "UCV": {
+    "src": "/universities/ucv.svg",
+    "source": "https://www.ucv.edu.pe/",
+    "asset_source": "https://www.ucv.edu.pe/uploads/images/imgucv/home/ucv-logo_20260319100448.svg",
+    "dark": false,
+    "sha256": "55e7e99551748369c4087c1fd835f00b75b0c96dd6c85b2880d4b12f337db59b"
+  },
+  "UA": {
+    "src": "/universities/ua.svg",
+    "source": "https://www.autonoma.pe/",
+    "asset_source": "https://www.autonoma.pe/wp-content/uploads/2023/06/logo-autonoma.svg",
+    "dark": false,
+    "sha256": "11f605a8b760287077c761c670ade049569c9f77771a3a178322aaf1e1ae14d3"
+  },
+  "UJBM": {
+    "src": "/universities/ujbm.png",
+    "source": "https://bausate.edu.pe/",
+    "asset_source": "https://bausate.edu.pe/wp-content/uploads/2021/10/LOGO-UB-EN-PNG.png",
+    "dark": false,
+    "sha256": "d8f676f5deedbbbffeb4da6c2471990acf516823eae825b917556245430d3426"
+  }
+}

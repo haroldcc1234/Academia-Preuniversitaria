@@ -1,0 +1,521 @@
+{
+  "version": "RIASEC-exploratorio-2.0",
+  "notice": "Cuestionario exploratorio original inspirado en las seis áreas RIASEC. No es el test oficial O*NET, no tiene validación psicométrica local y no mide aptitud ni garantiza éxito profesional.",
+  "source": "https://www.onetcenter.org/IP.html",
+  "dimensions": [
+    {
+      "id": "R",
+      "name": "Práctico",
+      "description": "Disfrutas trabajar con objetos, herramientas, naturaleza y soluciones concretas."
+    },
+    {
+      "id": "I",
+      "name": "Investigador",
+      "description": "Te atraen las preguntas, la evidencia y el análisis de problemas."
+    },
+    {
+      "id": "A",
+      "name": "Creativo",
+      "description": "Te interesa imaginar, comunicar y desarrollar propuestas originales."
+    },
+    {
+      "id": "S",
+      "name": "Social",
+      "description": "Encuentras sentido en acompañar, enseñar y colaborar con otras personas."
+    },
+    {
+      "id": "E",
+      "name": "Emprendedor",
+      "description": "Te motivan la iniciativa, la coordinación y la toma de decisiones."
+    },
+    {
+      "id": "C",
+      "name": "Organizado",
+      "description": "Prefieres precisión, orden y procesos que permitan trabajar con confianza."
+    }
+  ],
+  "questions": [
+    {
+      "id": "R1",
+      "dimension": "R",
+      "text": "Armar un dispositivo sencillo y comprobar que funciona."
+    },
+    {
+      "id": "I1",
+      "dimension": "I",
+      "text": "Buscar una explicación para un fenómeno que no entiendo."
+    },
+    {
+      "id": "A1",
+      "dimension": "A",
+      "text": "Crear una historia, canción o pieza visual propia."
+    },
+    {
+      "id": "S1",
+      "dimension": "S",
+      "text": "Explicar un tema a alguien que necesita ayuda."
+    },
+    {
+      "id": "E1",
+      "dimension": "E",
+      "text": "Presentar una propuesta y responder preguntas del grupo."
+    },
+    {
+      "id": "C1",
+      "dimension": "C",
+      "text": "Organizar información para encontrarla con facilidad."
+    },
+    {
+      "id": "R2",
+      "dimension": "R",
+      "text": "Medir un terreno para planificar una construcción."
+    },
+    {
+      "id": "I2",
+      "dimension": "I",
+      "text": "Comparar datos para comprobar una idea."
+    },
+    {
+      "id": "A2",
+      "dimension": "A",
+      "text": "Probar distintas formas de comunicar una idea."
+    },
+    {
+      "id": "S2",
+      "dimension": "S",
+      "text": "Escuchar con atención a una persona que busca orientación."
+    },
+    {
+      "id": "E2",
+      "dimension": "E",
+      "text": "Organizar a un equipo para lograr una meta."
+    },
+    {
+      "id": "C2",
+      "dimension": "C",
+      "text": "Revisar un registro y detectar datos que no coinciden."
+    },
+    {
+      "id": "R3",
+      "dimension": "R",
+      "text": "Aprender a reparar un equipo siguiendo un procedimiento."
+    },
+    {
+      "id": "I3",
+      "dimension": "I",
+      "text": "Resolver un problema lógico aunque necesite varios intentos."
+    },
+    {
+      "id": "A3",
+      "dimension": "A",
+      "text": "Diseñar un espacio que combine utilidad y expresión."
+    },
+    {
+      "id": "S3",
+      "dimension": "S",
+      "text": "Organizar una actividad de apoyo a mi comunidad."
+    },
+    {
+      "id": "E3",
+      "dimension": "E",
+      "text": "Proponer un pequeño emprendimiento y calcular sus posibilidades."
+    },
+    {
+      "id": "C3",
+      "dimension": "C",
+      "text": "Preparar un presupuesto con ingresos y gastos."
+    },
+    {
+      "id": "R4",
+      "dimension": "R",
+      "text": "Participar en un proyecto de cultivo o cuidado de animales."
+    },
+    {
+      "id": "I4",
+      "dimension": "I",
+      "text": "Diseñar un experimento y registrar sus resultados."
+    },
+    {
+      "id": "A4",
+      "dimension": "A",
+      "text": "Fotografiar o dibujar algo desde una perspectiva personal."
+    },
+    {
+      "id": "S4",
+      "dimension": "S",
+      "text": "Acompañar a alguien mientras aprende una habilidad."
+    },
+    {
+      "id": "E4",
+      "dimension": "E",
+      "text": "Negociar un acuerdo que beneficie a las partes."
+    },
+    {
+      "id": "C4",
+      "dimension": "C",
+      "text": "Seguir una secuencia de pasos para evitar errores."
+    },
+    {
+      "id": "R5",
+      "dimension": "R",
+      "text": "Construir un prototipo con materiales disponibles."
+    },
+    {
+      "id": "I5",
+      "dimension": "I",
+      "text": "Entender cómo funciona un programa o un sistema."
+    },
+    {
+      "id": "A5",
+      "dimension": "A",
+      "text": "Crear contenido para comunicar una experiencia."
+    },
+    {
+      "id": "S5",
+      "dimension": "S",
+      "text": "Colaborar en acciones para cuidar la salud de las personas."
+    },
+    {
+      "id": "E5",
+      "dimension": "E",
+      "text": "Tomar decisiones cuando hay varias alternativas."
+    },
+    {
+      "id": "C5",
+      "dimension": "C",
+      "text": "Planificar actividades en un calendario detallado."
+    },
+    {
+      "id": "R6",
+      "dimension": "R",
+      "text": "Hacer trabajo de campo para conocer un problema real."
+    },
+    {
+      "id": "I6",
+      "dimension": "I",
+      "text": "Leer sobre descubrimientos científicos por curiosidad."
+    },
+    {
+      "id": "A6",
+      "dimension": "A",
+      "text": "Participar en teatro, música o una actividad artística."
+    },
+    {
+      "id": "S6",
+      "dimension": "S",
+      "text": "Ayudar a resolver un desacuerdo con respeto."
+    },
+    {
+      "id": "E6",
+      "dimension": "E",
+      "text": "Coordinar un evento con personas y recursos limitados."
+    },
+    {
+      "id": "C6",
+      "dimension": "C",
+      "text": "Clasificar documentos usando un criterio consistente."
+    },
+    {
+      "id": "R7",
+      "dimension": "R",
+      "text": "Instalar y probar componentes de un equipo."
+    },
+    {
+      "id": "I7",
+      "dimension": "I",
+      "text": "Encontrar la causa de un error mediante pruebas."
+    },
+    {
+      "id": "A7",
+      "dimension": "A",
+      "text": "Transformar una idea en una propuesta visual."
+    },
+    {
+      "id": "S7",
+      "dimension": "S",
+      "text": "Adaptar una explicación a las necesidades de otra persona."
+    },
+    {
+      "id": "E7",
+      "dimension": "E",
+      "text": "Convencer a otras personas con argumentos de una idea útil."
+    },
+    {
+      "id": "C7",
+      "dimension": "C",
+      "text": "Comprobar cálculos antes de entregar un trabajo."
+    },
+    {
+      "id": "R8",
+      "dimension": "R",
+      "text": "Mejorar un objeto para que sea más seguro y útil."
+    },
+    {
+      "id": "I8",
+      "dimension": "I",
+      "text": "Relacionar conceptos de distintas materias para explicar algo."
+    },
+    {
+      "id": "A8",
+      "dimension": "A",
+      "text": "Buscar una solución original en una tarea abierta."
+    },
+    {
+      "id": "S8",
+      "dimension": "S",
+      "text": "Trabajar con un grupo para mejorar su bienestar."
+    },
+    {
+      "id": "E8",
+      "dimension": "E",
+      "text": "Asumir la responsabilidad de dirigir un proyecto."
+    },
+    {
+      "id": "C8",
+      "dimension": "C",
+      "text": "Mantener un inventario actualizado de materiales."
+    }
+  ],
+  "careers": [
+    {
+      "name": "Ingeniería de Sistemas",
+      "dimensions": [
+        "I",
+        "C",
+        "R"
+      ],
+      "description": "Analizar procesos y construir soluciones con software y datos.",
+      "activity": "Diseña una pequeña aplicación que resuelva un problema de tu comunidad.",
+      "anchors": [
+        "I5",
+        "I3",
+        "I7"
+      ]
+    },
+    {
+      "name": "Ingeniería Civil",
+      "dimensions": [
+        "R",
+        "I",
+        "C"
+      ],
+      "description": "Planificar y ejecutar obras con criterios técnicos y de seguridad.",
+      "activity": "Investiga cómo se diseña una estructura y conversa con un profesional.",
+      "anchors": [
+        "R2",
+        "R5",
+        "C7"
+      ]
+    },
+    {
+      "name": "Ingeniería Mecánica",
+      "dimensions": [
+        "R",
+        "I",
+        "C"
+      ],
+      "description": "Diseñar, mantener y mejorar máquinas y sistemas físicos.",
+      "activity": "Construye un mecanismo sencillo y documenta sus pruebas.",
+      "anchors": [
+        "R3",
+        "R7",
+        "R8"
+      ]
+    },
+    {
+      "name": "Ingeniería Industrial",
+      "dimensions": [
+        "E",
+        "C",
+        "I"
+      ],
+      "description": "Mejorar procesos, recursos y operaciones.",
+      "activity": "Observa un proceso cotidiano y propón cómo reducir tiempos.",
+      "anchors": [
+        "E2",
+        "C8",
+        "I7"
+      ]
+    },
+    {
+      "name": "Arquitectura",
+      "dimensions": [
+        "A",
+        "R",
+        "I"
+      ],
+      "description": "Diseñar espacios que respondan a las necesidades de las personas.",
+      "activity": "Dibuja una propuesta de mejora para un espacio de tu barrio.",
+      "anchors": [
+        "A3",
+        "A7",
+        "R2"
+      ]
+    },
+    {
+      "name": "Medicina Humana",
+      "dimensions": [
+        "I",
+        "S",
+        "R"
+      ],
+      "description": "Estudiar la salud y acompañar el cuidado de las personas.",
+      "activity": "Revisa la malla curricular y entrevista a un estudiante de medicina.",
+      "anchors": [
+        "S5",
+        "I4",
+        "I6"
+      ]
+    },
+    {
+      "name": "Enfermería",
+      "dimensions": [
+        "S",
+        "I",
+        "C"
+      ],
+      "description": "Cuidar a personas y participar en promoción de la salud.",
+      "activity": "Conoce una actividad de prevención y el rol del personal de enfermería.",
+      "anchors": [
+        "S5",
+        "S2",
+        "S8"
+      ]
+    },
+    {
+      "name": "Educación",
+      "dimensions": [
+        "S",
+        "A",
+        "C"
+      ],
+      "description": "Facilitar aprendizajes y diseñar experiencias educativas.",
+      "activity": "Prepara y explica una mini clase a un compañero.",
+      "anchors": [
+        "S1",
+        "S4",
+        "S7"
+      ]
+    },
+    {
+      "name": "Administración",
+      "dimensions": [
+        "E",
+        "C",
+        "S"
+      ],
+      "description": "Coordinar equipos, recursos y proyectos organizacionales.",
+      "activity": "Organiza una actividad y evalúa qué decisiones funcionaron.",
+      "anchors": [
+        "E3",
+        "E8",
+        "C3"
+      ]
+    },
+    {
+      "name": "Contabilidad",
+      "dimensions": [
+        "C",
+        "I",
+        "E"
+      ],
+      "description": "Analizar y registrar información económica con precisión.",
+      "activity": "Construye un registro de ingresos y gastos de un caso ficticio.",
+      "anchors": [
+        "C2",
+        "C3",
+        "C7"
+      ]
+    },
+    {
+      "name": "Economía",
+      "dimensions": [
+        "I",
+        "E",
+        "C"
+      ],
+      "description": "Analizar decisiones, recursos y fenómenos económicos.",
+      "activity": "Explora datos públicos sobre una actividad económica local.",
+      "anchors": [
+        "I2",
+        "E3",
+        "C3"
+      ]
+    },
+    {
+      "name": "Ciencias de la Comunicación",
+      "dimensions": [
+        "A",
+        "S",
+        "E"
+      ],
+      "description": "Crear mensajes y analizar procesos de comunicación.",
+      "activity": "Crea una nota informativa sobre un tema de Jauja.",
+      "anchors": [
+        "A2",
+        "A5",
+        "E7"
+      ]
+    },
+    {
+      "name": "Trabajo Social",
+      "dimensions": [
+        "S",
+        "E",
+        "I"
+      ],
+      "description": "Comprender necesidades sociales y acompañar intervenciones.",
+      "activity": "Investiga una iniciativa comunitaria y las necesidades que atiende.",
+      "anchors": [
+        "S3",
+        "S8",
+        "S6"
+      ]
+    },
+    {
+      "name": "Agronomía",
+      "dimensions": [
+        "R",
+        "I",
+        "C"
+      ],
+      "description": "Estudiar cultivos y mejorar sistemas de producción agrícola.",
+      "activity": "Compara condiciones de crecimiento de dos plantas.",
+      "anchors": [
+        "R4",
+        "R6",
+        "I4"
+      ]
+    },
+    {
+      "name": "Ingeniería Ambiental",
+      "dimensions": [
+        "I",
+        "R",
+        "S"
+      ],
+      "description": "Analizar impactos y proponer soluciones ambientales.",
+      "activity": "Registra un problema ambiental de tu localidad y posibles acciones.",
+      "anchors": [
+        "R6",
+        "I4",
+        "S3"
+      ]
+    },
+    {
+      "name": "Derecho",
+      "dimensions": [
+        "E",
+        "S",
+        "I"
+      ],
+      "description": "Interpretar normas, argumentar y orientar sobre conflictos.",
+      "activity": "Analiza un caso ficticio desde los argumentos de ambas partes.",
+      "anchors": [
+        "E4",
+        "E7",
+        "S6"
+      ]
+    }
+  ]
+}

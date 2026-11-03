@@ -1,0 +1,578 @@
+[
+  {
+    "course": "Aritmética",
+    "prompt": "Calcula el 10% de 120.",
+    "options": [
+      "17",
+      "12",
+      "22",
+      "7"
+    ],
+    "answer": "1",
+    "explanation": "Un porcentaje es una fracción de 100: 120 × 10/100 = 12."
+  },
+  {
+    "course": "Álgebra",
+    "prompt": "Resuelve 2x + 1 = 7.",
+    "options": [
+      "2",
+      "4",
+      "3",
+      "5"
+    ],
+    "answer": "2",
+    "explanation": "Restamos 1: 2x = 6. Dividimos entre 2: x = 3. Verificación: 2(3) + 1 = 7."
+  },
+  {
+    "course": "Geometría",
+    "prompt": "Un triángulo tiene base 8 cm y altura perpendicular 3 cm. ¿Cuál es su área en cm²?",
+    "options": [
+      "12",
+      "24",
+      "11",
+      "15"
+    ],
+    "answer": "0",
+    "explanation": "Área = base × altura / 2 = 8 × 3 / 2 = 12 cm²."
+  },
+  {
+    "course": "Física",
+    "prompt": "Un móvil mantiene una rapidez de 6 m/s durante 4 s. ¿Qué distancia recorre?",
+    "options": [
+      "30",
+      "18",
+      "28",
+      "24"
+    ],
+    "answer": "3",
+    "explanation": "En movimiento rectilíneo uniforme, d = v × t = 6 × 4 = 24 m."
+  },
+  {
+    "course": "Aritmética",
+    "prompt": "Calcula el 15% de 140.",
+    "options": [
+      "26",
+      "21",
+      "31",
+      "16"
+    ],
+    "answer": "1",
+    "explanation": "Un porcentaje es una fracción de 100: 140 × 15/100 = 21."
+  },
+  {
+    "course": "Álgebra",
+    "prompt": "Resuelve 3x + 3 = 15.",
+    "options": [
+      "3",
+      "5",
+      "4",
+      "6"
+    ],
+    "answer": "2",
+    "explanation": "Restamos 3: 3x = 12. Dividimos entre 3: x = 4. Verificación: 3(4) + 3 = 15."
+  },
+  {
+    "course": "Geometría",
+    "prompt": "Un triángulo tiene base 10 cm y altura perpendicular 4 cm. ¿Cuál es su área en cm²?",
+    "options": [
+      "20",
+      "40",
+      "14",
+      "23"
+    ],
+    "answer": "0",
+    "explanation": "Área = base × altura / 2 = 10 × 4 / 2 = 20 cm²."
+  },
+  {
+    "course": "Física",
+    "prompt": "Un móvil mantiene una rapidez de 7 m/s durante 5 s. ¿Qué distancia recorre?",
+    "options": [
+      "42",
+      "28",
+      "40",
+      "35"
+    ],
+    "answer": "3",
+    "explanation": "En movimiento rectilíneo uniforme, d = v × t = 7 × 5 = 35 m."
+  },
+  {
+    "course": "Aritmética",
+    "prompt": "Calcula el 20% de 160.",
+    "options": [
+      "37",
+      "32",
+      "42",
+      "27"
+    ],
+    "answer": "1",
+    "explanation": "Un porcentaje es una fracción de 100: 160 × 20/100 = 32."
+  },
+  {
+    "course": "Álgebra",
+    "prompt": "Resuelve 4x + 5 = 25.",
+    "options": [
+      "4",
+      "6",
+      "5",
+      "7"
+    ],
+    "answer": "2",
+    "explanation": "Restamos 5: 4x = 20. Dividimos entre 4: x = 5. Verificación: 4(5) + 5 = 25."
+  },
+  {
+    "course": "Geometría",
+    "prompt": "Un triángulo tiene base 12 cm y altura perpendicular 5 cm. ¿Cuál es su área en cm²?",
+    "options": [
+      "30",
+      "60",
+      "17",
+      "33"
+    ],
+    "answer": "0",
+    "explanation": "Área = base × altura / 2 = 12 × 5 / 2 = 30 cm²."
+  },
+  {
+    "course": "Física",
+    "prompt": "Un móvil mantiene una rapidez de 8 m/s durante 6 s. ¿Qué distancia recorre?",
+    "options": [
+      "56",
+      "40",
+      "54",
+      "48"
+    ],
+    "answer": "3",
+    "explanation": "En movimiento rectilíneo uniforme, d = v × t = 8 × 6 = 48 m."
+  },
+  {
+    "course": "Aritmética",
+    "prompt": "Calcula el 25% de 180.",
+    "options": [
+      "50",
+      "45",
+      "55",
+      "40"
+    ],
+    "answer": "1",
+    "explanation": "Un porcentaje es una fracción de 100: 180 × 25/100 = 45."
+  },
+  {
+    "course": "Álgebra",
+    "prompt": "Resuelve 5x + 7 = 37.",
+    "options": [
+      "5",
+      "7",
+      "6",
+      "8"
+    ],
+    "answer": "2",
+    "explanation": "Restamos 7: 5x = 30. Dividimos entre 5: x = 6. Verificación: 5(6) + 7 = 37."
+  },
+  {
+    "course": "Geometría",
+    "prompt": "Un triángulo tiene base 14 cm y altura perpendicular 6 cm. ¿Cuál es su área en cm²?",
+    "options": [
+      "42",
+      "84",
+      "20",
+      "45"
+    ],
+    "answer": "0",
+    "explanation": "Área = base × altura / 2 = 14 × 6 / 2 = 42 cm²."
+  },
+  {
+    "course": "Física",
+    "prompt": "Un móvil mantiene una rapidez de 9 m/s durante 7 s. ¿Qué distancia recorre?",
+    "options": [
+      "72",
+      "54",
+      "70",
+      "63"
+    ],
+    "answer": "3",
+    "explanation": "En movimiento rectilíneo uniforme, d = v × t = 9 × 7 = 63 m."
+  },
+  {
+    "course": "Aritmética",
+    "prompt": "Calcula el 30% de 200.",
+    "options": [
+      "65",
+      "60",
+      "70",
+      "55"
+    ],
+    "answer": "1",
+    "explanation": "Un porcentaje es una fracción de 100: 200 × 30/100 = 60."
+  },
+  {
+    "course": "Álgebra",
+    "prompt": "Resuelve 6x + 9 = 51.",
+    "options": [
+      "6",
+      "8",
+      "7",
+      "9"
+    ],
+    "answer": "2",
+    "explanation": "Restamos 9: 6x = 42. Dividimos entre 6: x = 7. Verificación: 6(7) + 9 = 51."
+  },
+  {
+    "course": "Geometría",
+    "prompt": "Un triángulo tiene base 16 cm y altura perpendicular 7 cm. ¿Cuál es su área en cm²?",
+    "options": [
+      "56",
+      "112",
+      "23",
+      "59"
+    ],
+    "answer": "0",
+    "explanation": "Área = base × altura / 2 = 16 × 7 / 2 = 56 cm²."
+  },
+  {
+    "course": "Física",
+    "prompt": "Un móvil mantiene una rapidez de 10 m/s durante 8 s. ¿Qué distancia recorre?",
+    "options": [
+      "90",
+      "70",
+      "88",
+      "80"
+    ],
+    "answer": "3",
+    "explanation": "En movimiento rectilíneo uniforme, d = v × t = 10 × 8 = 80 m."
+  },
+  {
+    "course": "Aritmética",
+    "prompt": "Calcula el 35% de 220.",
+    "options": [
+      "82",
+      "77",
+      "87",
+      "72"
+    ],
+    "answer": "1",
+    "explanation": "Un porcentaje es una fracción de 100: 220 × 35/100 = 77."
+  },
+  {
+    "course": "Álgebra",
+    "prompt": "Resuelve 7x + 11 = 67.",
+    "options": [
+      "7",
+      "9",
+      "8",
+      "10"
+    ],
+    "answer": "2",
+    "explanation": "Restamos 11: 7x = 56. Dividimos entre 7: x = 8. Verificación: 7(8) + 11 = 67."
+  },
+  {
+    "course": "Geometría",
+    "prompt": "Un triángulo tiene base 18 cm y altura perpendicular 8 cm. ¿Cuál es su área en cm²?",
+    "options": [
+      "72",
+      "144",
+      "26",
+      "75"
+    ],
+    "answer": "0",
+    "explanation": "Área = base × altura / 2 = 18 × 8 / 2 = 72 cm²."
+  },
+  {
+    "course": "Física",
+    "prompt": "Un móvil mantiene una rapidez de 11 m/s durante 9 s. ¿Qué distancia recorre?",
+    "options": [
+      "110",
+      "88",
+      "108",
+      "99"
+    ],
+    "answer": "3",
+    "explanation": "En movimiento rectilíneo uniforme, d = v × t = 11 × 9 = 99 m."
+  },
+  {
+    "course": "Química",
+    "prompt": "¿Qué partícula tiene carga eléctrica negativa?",
+    "options": [
+      "Protón",
+      "Neutrón",
+      "Electrón",
+      "Nucleón"
+    ],
+    "answer": "2",
+    "explanation": "El electrón posee carga negativa; el protón positiva y el neutrón no tiene carga neta."
+  },
+  {
+    "course": "Química",
+    "prompt": "¿Qué indica el número atómico Z?",
+    "options": [
+      "Número de protones",
+      "Masa en gramos",
+      "Número de neutrones",
+      "Cantidad de enlaces"
+    ],
+    "answer": "0",
+    "explanation": "Z es el número de protones del núcleo y determina el elemento."
+  },
+  {
+    "course": "Química",
+    "prompt": "¿Cuál es la fórmula del agua?",
+    "options": [
+      "CO2",
+      "H2O",
+      "NaCl",
+      "O2"
+    ],
+    "answer": "1",
+    "explanation": "Cada molécula de agua contiene dos átomos de hidrógeno y uno de oxígeno."
+  },
+  {
+    "course": "Química",
+    "prompt": "Una solución con pH 3 es:",
+    "options": [
+      "Neutra",
+      "Básica",
+      "Saturada necesariamente",
+      "Ácida"
+    ],
+    "answer": "3",
+    "explanation": "A temperatura habitual, un pH menor que 7 indica una solución ácida."
+  },
+  {
+    "course": "Química",
+    "prompt": "¿Cuál es un cambio químico?",
+    "options": [
+      "Fusión del hielo",
+      "Evaporación del agua",
+      "Oxidación del hierro",
+      "Corte del papel"
+    ],
+    "answer": "2",
+    "explanation": "La oxidación forma nuevas sustancias; los otros procesos son cambios físicos."
+  },
+  {
+    "course": "Química",
+    "prompt": "¿Cuántos átomos de oxígeno hay en una molécula de CO2?",
+    "options": [
+      "Uno",
+      "Dos",
+      "Tres",
+      "Cuatro"
+    ],
+    "answer": "1",
+    "explanation": "El subíndice 2 indica dos átomos de oxígeno por molécula."
+  },
+  {
+    "course": "Biología",
+    "prompt": "¿Qué organelo realiza la fotosíntesis?",
+    "options": [
+      "Mitocondria",
+      "Ribosoma",
+      "Cloroplasto",
+      "Lisosoma"
+    ],
+    "answer": "2",
+    "explanation": "Los cloroplastos contienen clorofila y transforman energía luminosa en energía química."
+  },
+  {
+    "course": "Biología",
+    "prompt": "¿Qué molécula almacena la información hereditaria?",
+    "options": [
+      "ADN",
+      "Glucosa",
+      "Agua",
+      "Triglicérido"
+    ],
+    "answer": "0",
+    "explanation": "La secuencia de nucleótidos del ADN contiene información hereditaria."
+  },
+  {
+    "course": "Biología",
+    "prompt": "¿Cuál es la unidad básica de los seres vivos?",
+    "options": [
+      "Órgano",
+      "Célula",
+      "Tejido",
+      "Sistema"
+    ],
+    "answer": "1",
+    "explanation": "La célula es la unidad estructural y funcional básica de los seres vivos."
+  },
+  {
+    "course": "Biología",
+    "prompt": "¿Qué proceso origina gametos con la mitad de cromosomas?",
+    "options": [
+      "Mitosis",
+      "Bipartición",
+      "Gemación",
+      "Meiosis"
+    ],
+    "answer": "3",
+    "explanation": "La meiosis reduce el número cromosómico y produce variabilidad genética."
+  },
+  {
+    "course": "Biología",
+    "prompt": "¿Qué células transportan principalmente oxígeno en la sangre?",
+    "options": [
+      "Plaquetas",
+      "Neuronas",
+      "Glóbulos rojos",
+      "Osteocitos"
+    ],
+    "answer": "2",
+    "explanation": "Los glóbulos rojos contienen hemoglobina, que transporta oxígeno."
+  },
+  {
+    "course": "Biología",
+    "prompt": "¿Cómo se llama la asociación entre un hongo y un alga en un liquen?",
+    "options": [
+      "Depredación",
+      "Mutualismo",
+      "Parasitismo obligatorio",
+      "Competencia"
+    ],
+    "answer": "1",
+    "explanation": "Ambos organismos obtienen beneficios: protección y productos de fotosíntesis."
+  },
+  {
+    "course": "Comunicación",
+    "prompt": "En «María estudia cada tarde», el sujeto es:",
+    "options": [
+      "María",
+      "Estudia",
+      "Cada tarde",
+      "Tarde"
+    ],
+    "answer": "0",
+    "explanation": "María es quien realiza la acción; el resto constituye el predicado."
+  },
+  {
+    "course": "Comunicación",
+    "prompt": "¿Cuál es una palabra esdrújula?",
+    "options": [
+      "Papel",
+      "Canción",
+      "Música",
+      "Reloj"
+    ],
+    "answer": "2",
+    "explanation": "Música tiene la sílaba tónica en la antepenúltima sílaba y lleva tilde."
+  },
+  {
+    "course": "Comunicación",
+    "prompt": "¿Qué debe sustentar una inferencia de lectura?",
+    "options": [
+      "La portada",
+      "Indicios del texto",
+      "La extensión",
+      "Una opinión sin evidencia"
+    ],
+    "answer": "1",
+    "explanation": "Una inferencia combina indicios del texto con conocimientos pertinentes."
+  },
+  {
+    "course": "Comunicación",
+    "prompt": "¿Cuál es el antónimo de «efímero»?",
+    "options": [
+      "Breve",
+      "Fugaz",
+      "Momentáneo",
+      "Duradero"
+    ],
+    "answer": "3",
+    "explanation": "Efímero significa de corta duración; duradero expresa el sentido contrario."
+  },
+  {
+    "course": "Comunicación",
+    "prompt": "En «Aunque llovía, salió», «aunque» introduce una relación:",
+    "options": [
+      "Causal",
+      "Temporal",
+      "Concesiva",
+      "Comparativa"
+    ],
+    "answer": "2",
+    "explanation": "La concesión presenta una dificultad que no impide la acción principal."
+  },
+  {
+    "course": "Comunicación",
+    "prompt": "¿Cuál oración usa correctamente «porque»?",
+    "options": [
+      "¿Porque estudias?",
+      "Estudio porque quiero aprender.",
+      "No sé el porque.",
+      "Porque de tu decisión."
+    ],
+    "answer": "1",
+    "explanation": "Porque es conjunción causal y explica la razón de estudiar."
+  },
+  {
+    "course": "Historia del Perú",
+    "prompt": "¿En qué año se proclamó la independencia del Perú en Lima?",
+    "options": [
+      "1821",
+      "1824",
+      "1810",
+      "1836"
+    ],
+    "answer": "0",
+    "explanation": "José de San Martín proclamó la independencia en Lima el 28 de julio de 1821."
+  },
+  {
+    "course": "Historia del Perú",
+    "prompt": "¿Qué batalla de 1824 consolidó la independencia sudamericana?",
+    "options": [
+      "Arica",
+      "Ayacucho",
+      "Tarapacá",
+      "Dos de Mayo"
+    ],
+    "answer": "1",
+    "explanation": "La batalla de Ayacucho ocurrió el 9 de diciembre de 1824."
+  },
+  {
+    "course": "Historia del Perú",
+    "prompt": "¿Qué ciudad fue capital del Tahuantinsuyo?",
+    "options": [
+      "Lima",
+      "Trujillo",
+      "Cusco",
+      "Cajamarca"
+    ],
+    "answer": "2",
+    "explanation": "Cusco fue el centro político principal del Estado inca."
+  },
+  {
+    "course": "Historia del Perú",
+    "prompt": "¿Qué sistema de cuerdas y nudos se usaba para registrar información?",
+    "options": [
+      "Ayllu",
+      "Chasqui",
+      "Andén",
+      "Quipu"
+    ],
+    "answer": "3",
+    "explanation": "Los quipus registraban información mediante cuerdas, colores y nudos."
+  },
+  {
+    "course": "Historia del Perú",
+    "prompt": "¿Qué cultura se asocia con las líneas de las pampas del sur peruano?",
+    "options": [
+      "Chavín",
+      "Mochica",
+      "Nazca",
+      "Wari"
+    ],
+    "answer": "2",
+    "explanation": "Los geoglifos de las pampas de Nazca se asocian principalmente con la cultura Nazca."
+  },
+  {
+    "course": "Historia del Perú",
+    "prompt": "¿Quién encabezó la rebelión de 1780 contra el régimen colonial?",
+    "options": [
+      "Ramón Castilla",
+      "Túpac Amaru II",
+      "Miguel Grau",
+      "Andrés Avelino Cáceres"
+    ],
+    "answer": "1",
+    "explanation": "José Gabriel Condorcanqui, Túpac Amaru II, inició la rebelión de 1780."
+  }
+]
